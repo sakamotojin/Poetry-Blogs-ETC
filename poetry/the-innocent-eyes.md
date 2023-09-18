@@ -23,4 +23,6 @@ A blessing to be inspired.\
 Her presence is like a warm ray of sunshine, \
 That chases away the darkness and the gloom.\
 I will cherish her always, \
-And I will never forget the day I saw her eyes.
+And I will never forget the day I saw her eyes.\
+\
+&#x20;                                                  By Kavi - **Sumit Chandra Joshi**
