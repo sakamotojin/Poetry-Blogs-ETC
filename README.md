@@ -13,3 +13,6 @@ description: What do you want to explore ?
 
 
 ## Blogs By Sumit
+
+* [I ̶F̶̶a̶̶i̶̶l̶̶e̶̶d̶ Learnt Something New.](thoughts/i-f-a-i-l-e-d-learnt-something-new..md)
+* [Being On The Right Side Of The “Zero”](thoughts/being-on-the-right-side-of-the-zero.md)
