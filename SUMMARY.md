@@ -5,3 +5,4 @@
 ## Poetry
 
 * [The Innocent Eyes](poetry/the-innocent-eyes.md)
+* [🥲 Not Yet Ready](poetry/not-yet-ready.md)
