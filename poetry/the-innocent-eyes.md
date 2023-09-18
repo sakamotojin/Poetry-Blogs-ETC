@@ -1,3 +1,10 @@
+---
+description: >-
+  Sab to’n mehngi hundi aey Masoomiyat, Sohne taan unj lok bathere hunde ne,
+  Jina nu takkiye te takk-de e reh jaiye, Duniya vich kuj khaas vi chehre hunde
+  ne
+---
+
 # The Innocent Eyes
 
 ![](../.gitbook/assets/21e165d941ed72c60424c82e941ad66b.jpg)\
